@@ -1,8 +1,9 @@
-import React from 'react'
+import React, { useState } from 'react'
 // font awesome icons
 import {FaBars, FaTimes } from 'react-icons/fa';
 
 const Navbar = () => {
+  const [nav, setNav] = useState(false);
 
   // array for each of the buttons on the navbar
   const links = [
@@ -30,7 +31,7 @@ const Navbar = () => {
             <h1 className=' text-5xl font-signature ml-2'>Nicholas Webb</h1>
         </div>
         
-        <ul className='flex'>
+        <ul className='hidden md:flex'>
           {/* This will map through the array and auto fill the information */}
           {links.map(({ id, link }) => (
               <li key={id}className='px-4 cursor-pointer font-medium text-amber-900 hover:scale-105 duration-200'>
@@ -38,10 +39,14 @@ const Navbar = () => {
               </li>
           ))}
           
-            
-            
-
         </ul>
+
+        <div 
+        onClick={() => setNav(!nav)} 
+        className='cursor-pointer pr-4 z-10 text-amber-900'>
+          {nav ? <FaTimes size={30} /> : <FaBars size={30}/>}
+          
+        </div>
     </div>
   )
 }
