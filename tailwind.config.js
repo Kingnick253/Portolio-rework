@@ -4,7 +4,12 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "FrostOne": "#000428",
+        "FrostTwo": "#004e92",
+      },
+    },
     fontFamily: {
       signature: ["Great Vibes"],
     }
