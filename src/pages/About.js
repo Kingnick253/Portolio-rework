@@ -13,10 +13,10 @@ const About = () => {
                 <p className= " text-gray-500  py-6 max-w-md">I have a year of experience in creating and designing software. I am a recent graduate from University of Washington Coding BootCamp, and have completely falling in love with coding.</p>
 
                 <div>
-                    <button className="text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r ">
-                        Projects 
-                        <span>
-                            <BsForwardFill />
+                    <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-DeepOne to-DeepTwo  hover:from-OrangeOne hover:to-OrangeTwo">
+                        Projects  
+                        <span className='group-hover:rotate-90 duration-300'>
+                            <BsForwardFill  size={20} className="ml-1"/>
                         </span>
                     </button>
                 </div>

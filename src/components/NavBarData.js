@@ -3,18 +3,22 @@
 const Links =[
     {
         id: 1,
-        link: "About",
+        link: "Home",
     },
     {
         id: 2,
-        link: "Projects",
+        link: "About",
     },
     {
         id: 3,
-        link: "Skills",
+        link: "Projects",
     },
     {
         id: 4,
+        link: "Skills",
+    },
+    {
+        id: 5,
         link: "Contact Me",
     },
 
