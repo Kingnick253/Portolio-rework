@@ -1,7 +1,7 @@
 import React from 'react'
 import ProfilePic from '../images/profile-picture.jpg';
 import { BsForwardFill } from "react-icons/bs"
-const About = () => {
+const Home = () => {
   return (
     <div name="About" className="h-screen w-full bg-gradient-to-b from-FrostOne to-FrostTwo text-white">
         <div className='max-w-sceen-lg mx-auto flex flex-col items-center justify-center h-full px-5 md:flex-row'>
@@ -26,4 +26,4 @@ const About = () => {
   )
 }
 
-export default About
+export default Home

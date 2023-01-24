@@ -1,12 +1,15 @@
 import Navbar from "./components/Navbar";
-import About from "./pages/About";
+import Socials from "./components/Socials";
+import Home from "./pages/Home";
 
 
 function App() {
   return (
     <div>
       <Navbar />
-      <About />
+      <Home />
+
+      <Socials />
     </div>
   );
 }
