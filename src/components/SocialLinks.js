@@ -8,7 +8,7 @@ const SocialLinks = [
                 LinkedIn <FaLinkedin  size={30}/>
             </>
         ),
-        href: 'https://linkedin.com',
+        href: 'https://www.linkedin.com/in/nicholas-webb-954a1b239/',
         style: 'rounded-tr-md'
 
     },
@@ -32,6 +32,7 @@ const SocialLinks = [
         ),
         href: '',
         download: true,
+        
        
 
     },
@@ -39,7 +40,7 @@ const SocialLinks = [
         id:4,
         child: (
             <>
-                Email <BsMailbox  size={30}/>
+                Contact Me <BsMailbox  size={30}/>
             </>
         ),
         href: 'mailto:nicholaswebb2016@gmail.com',
