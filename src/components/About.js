@@ -2,8 +2,8 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div>
-        <div>
+    <div class= 'about' className='w-full h-screen bg-gradient-to-b from-FrostTwo to-FrostOne text-white'>
+        <div >
             <div>
 
                 <p>
@@ -12,15 +12,13 @@ const About = () => {
 
             </div>
             <p>
-                loremalksdjgbslkjdfghlskdjfhg sldkfjghbsldkfjghlskdfjgh sdfgljkshdfglkjshdfg sldkfjghbsldkfsdfg 
-                sdf gsfd g
-                sdf g
-                sdf gs
-                dfgjghlskdfjghsgs sdfgsdfg sdfgsdfgs 
-                sdfg sdfgg sdfg sdfgsdfgg sdfg 
-
+                Hi, my name is Nicholas Webb, recent gradute from the Universty of Washington's Full Stack coding bootcamp. I am 25 years old, and currently employeed with the Unviersty of Washington Medicine Laboratory Medicine & Pathology as a PTA Lead. 
             </p>
 
+            <br />
+            <p>
+            Hi, my name is Nicholas Webb, recent gradute from the Universty of Washington's Full Stack coding bootcamp. I am 25 years old, and currently employeed with the Unviersty of Washington Medicine Laboratory Medicine & Pathology as a PTA Lead. 
+            </p>
 
         </div>
         
