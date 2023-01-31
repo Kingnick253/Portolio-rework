@@ -8,8 +8,8 @@ module.exports = {
       colors: {
         "FrostOne": "#000428",
         "FrostTwo": "#004e92",
-        "OrangeOne": "#ff8008",
-        "OrangeTwo": "#ffc837",
+        "OrangeOne": "#36D1DC",
+        "OrangeTwo": "#5B86E5",
         "DeepOne": "#000000",
         "DeepTwo": "#434343",
       },
