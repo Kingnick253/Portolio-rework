@@ -2,7 +2,23 @@ import React from 'react'
 
 const Projects = () => {
   return (
-    <div>Projects</div>
+        <div>
+            <div>
+                <div>
+
+                    <p>Portfolio</p>
+                    <p></p>
+                </div>
+
+
+
+
+            </div>
+        
+
+
+
+         </div>
   )
 }
 
