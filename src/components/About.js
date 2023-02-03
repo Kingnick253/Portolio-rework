@@ -11,12 +11,12 @@ const About = () => {
                 </p>
 
             </div>
-            <p>
+            <p className='text-xl mt-20'>
                 Hi, my name is Nicholas Webb, recent gradute from the Universty of Washington's Full Stack coding bootcamp. I am 25 years old, and currently employeed with the Unviersty of Washington Medicine Laboratory Medicine & Pathology as a PTA Lead. 
             </p>
 
             <br />
-            <p>
+            <p className='text-xl'>
             Hi, my name is Nicholas Webb, recent gradute from the Universty of Washington's Full Stack coding bootcamp. I am 25 years old, and currently employeed with the Unviersty of Washington Medicine Laboratory Medicine & Pathology as a PTA Lead. 
             </p>
 
