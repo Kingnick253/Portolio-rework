@@ -18,8 +18,8 @@ const Projects = () => {
                     <div key={id} className=' shadow-md shadow-gray-600 roudned-lg'>
                         <img src={image} alt='' className='rounded-md duration-200 hover:scale-105'/>    
                         <div className='flex items-center justify-center'>
-                            <button  className='w-1/2 px-6 py-3 m-4 duration-200 hover: scale-105'>Application</button >
-                            <button className='w-1/2 px-6 py-3 m-4 duration-200 hover: scale-105'>Github </button>
+                            <a  href={github} target="_blank" rel="noreferrer" className='w-1/2 px-6 py-3 m-4 duration-200 hover: scale-105'>Github</a >
+                            <a href={link} target="_blank" rel="noreferrer" className='w-1/2 px-6 py-3 m-4 duration-200 hover: scale-105'> App</a>
                         </div>
                     </div>
 
