@@ -19,12 +19,14 @@ const Navbar = () => {
       <ul className="hidden md:flex">
         {/* This will map through the array and auto fill the information */}
         {Links.map(({ id, link }) => (
+          <a href={link}>
           <li
             key={id}
             className="px-4 cursor-pointer font-medium text-gray-500 hover:scale-105 duration-200"
           >
             {link}
           </li>
+          </a>
         ))}
       </ul>
 
@@ -37,7 +39,9 @@ const Navbar = () => {
         {nav && (
             <ul className="flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-b from-FrostOne to-FrostTwo text-gray-500">
                 {Links.map(({ id, link }) => (
+                    
                     <li
+                    
                         key ={id}
                         className="px-4 cursor-pointer capitalize py-6 text-4xl" >
                         {link}
