@@ -17,7 +17,7 @@ const About = () => {
 
             <br />
             <p className='text-xl'>
-            Hi, my name is Nicholas Webb, recent gradute from the Universty of Washington's Full Stack coding bootcamp. I am 25 years old, and currently employeed with the Unviersty of Washington Medicine Laboratory Medicine & Pathology as a PTA Lead. 
+            As far as my coding experience I took a Java class while I was in college and have been independently learning Python, through coursera a google ran coding class. Out of the languages I have learned thus far, my favorite would have to be Javascript/react. I think react paired with a CSS framework such as Tailwind, makes for a seamlessly smooth webpage that can meet the needs of creator and the user.
             </p>
 
         </div>

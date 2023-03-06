@@ -9,8 +9,8 @@ const Home = () => {
                 <img src={ProfilePic} alt="Profile picture of myself with the sun hitting my skin" className= "  h-auto w-96 mx-auto pr-4 pt-4 rounded-3xl md:min-h"/>
             </div>
             <div> 
-                <h2 className='text-4xl sm:text-7xl font-bold'>Software Engineer </h2>
-                <p className= " text-gray-500  py-6 max-w-md">I have a year of experience in creating and designing software. I am a recent graduate from University of Washington Coding BootCamp, and have completely falling in love with coding.</p>
+                <h2 className='text-4xl sm:text-7xl font-bold'>Full Stack Dev </h2>
+                <p className= " text-gray-500  py-6 max-w-md">I have a year of experience in creating and designing software. I am a recent graduate from University of Washington Coding BootCamp, and have completely fallen in love with coding.</p>
 
                 <div>
                     <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-DeepOne to-DeepTwo  hover:from-OrangeOne hover:to-OrangeTwo">
