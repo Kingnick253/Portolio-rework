@@ -1,12 +1,5 @@
 import React from "react";
-import Css from "../icons/css.svg";
-import Html from "../icons/html.svg";
-import Java from "../icons/java-4.svg";
-import JavaScript from "../icons/javascript-2.svg";
-import Mongodb from "../icons/mongodb-icon-1.svg";
-import Mysql from "../icons/mysql-6.svg";
-import ReactIcon from "../icons/react-1.svg";
-import Tailwind from "../icons/tailwind-css-1.svg";
+
 
 import SkillsData from "../components/SkillsData";
 
@@ -22,15 +15,15 @@ const Skills = () => {
             <p className="pt-2">I have experience with</p>
           </div>
           <div className=" w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-9 px-12 sm:px-0">
-            {SkillsData.map(({ id, icon, style }) => {
+            {SkillsData.map(({ id, icon, style, title }) => (
               <div
                 key={id}
-                className=" shadow-md hover:scale-105 duration-500 py-2 rounded-lg"
+                className={ ` shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}`}
               >
                 <img src={icon} alt="" className=" w-20 mx-auto" />
-                <p className="mt-3">CSS</p>
+                <p className="mt-3">{title}</p>
               </div>
-            })}
+            ))}
 
             {/* <div className=' shadow-md hover:scale-105 duration-500 py-2 rounded-lg'>
                     <img  src={Css} alt="" className=' w-20 mx-auto'/>
