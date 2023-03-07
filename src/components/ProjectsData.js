@@ -15,15 +15,15 @@ const ProjectsData = [
         id: 2,
         title:"TakeMyNotes",
         image:NoteTaker,
-        github: "https://github.com/paullsshin/Paper-Boy",
+        github: "https://github.com/Kingnick253/TakeMyNote",
         link: "https://paullsshin.github.io/Paper-Boy/"
     },
     {
         id: 3,
         title:"Password Generator",
         image:PassGen,
-        github: "https://github.com/paullsshin/Paper-Boy",
-        link: "https://paullsshin.github.io/Paper-Boy/"
+        github: "https://github.com/Kingnick253/passwordGenerator",
+        link: "https://kingnick253.github.io/passwordGenerator/"
     },
     {
         id: 4,

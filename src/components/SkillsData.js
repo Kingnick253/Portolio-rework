@@ -1,11 +1,11 @@
 import Css from '../icons/css.svg';
 import Html from '../icons/html.svg';
 import Java from '../icons/java-4.svg';
-import JavaScript from '../icons/javascript-2.svg';
+import JavaScript from '../icons/javascriptIcon.svg';
 import Mongodb from '../icons/mongodb-icon-1.svg';
-import Mysql from '../icons/mysql-6.svg';
+import Mysql from '../icons/mysql-logo.svg';
 import ReactIcon from '../icons/react-1.svg';
-import Tailwind from '../icons/tailwind-css-1.svg';
+import Tailwind from '../icons/tailwindcssIcon.svg';
 const SkillsData = [
     {
         id: 1,
@@ -34,12 +34,14 @@ const SkillsData = [
     {
         id: 5,
         icon: Mongodb,
+        style:"shadow-lime-500",
         title:"MongoDB"
     },
     {
         id: 6,
         icon: Mysql,
-        title:"MySQL"
+        style:"shadow-orange-500"
+,        title:"MySQL"
     },
     {
         id: 7,
@@ -50,7 +52,7 @@ const SkillsData = [
     {
         id: 8,
         icon: Tailwind,
-        style: "shadow-sky-400",
+        style: "shadow-teal-400",
         title:"TailwindCSS"
     },
 

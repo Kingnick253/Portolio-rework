@@ -25,10 +25,7 @@ const Skills = () => {
               </div>
             ))}
 
-            {/* <div className=' shadow-md hover:scale-105 duration-500 py-2 rounded-lg'>
-                    <img  src={Css} alt="" className=' w-20 mx-auto'/>
-                    <p className='mt-3'>CSS</p>
-                  </div> */}
+            
           </div>
         </div>
       </div>
