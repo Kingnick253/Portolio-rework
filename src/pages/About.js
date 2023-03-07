@@ -7,7 +7,7 @@ const About = () => {
             <div className='pb-8'>
 
                 <p className='text-4xl font-bold inline border-b-4 border-indigo-400'>
-                    About
+                    About Me
                 </p>
 
             </div>
