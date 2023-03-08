@@ -5,7 +5,7 @@ import SkillsData from "../components/SkillsData";
 
 const Skills = () => {
   return (
-    <div id="skills">
+    <div id="Skills">
       <div className="bg-gradient-to-b from-FrostTwo to-FrostOne w-full h-screen">
         <div className="flex max-w-screen-lg mx-auto p-4 flex-col justify-center w-full h-full text-white">
           <div className="pb-8">

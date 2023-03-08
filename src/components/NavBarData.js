@@ -20,7 +20,7 @@ const Links =[
     },
     {
         id: 5,
-        link: "Contact Me",
+        link: "Contact",
     },
 
 
