@@ -11,13 +11,17 @@ const About = () => {
                 </p>
 
             </div>
-            <p className='text-xl mt-20'>
+            <p className='text-3xl mt-10'>
             Hello, my name is Nicholas Webb. I'm a 25 year old software engineer, and recent graduate from the University of Washington Full-Stack Coding BootCamp. I am currently pursuing an opportunity to exhibit my Front-end and Back-end Skills. 
             </p>
 
             <br />
-            <p className='text-xl'>
-            As far as my coding experience I took a Java class while I was in college and have been independently learning Python, through coursera a google ran coding class. Out of the languages I have learned thus far, my favorite would have to be Javascript/react. I think react paired with a CSS framework such as Tailwind, makes for a seamlessly smooth webpage that can meet the needs of creator and the user.
+            <p className='text-3xl'> 
+            I have strong inclination to create and develop effcient, secure, and user friendly application. Goal oriented and easy to work with,  I'm looking forward to being a useful addition to the team. 
+            </p>
+            <br />
+            <p className='text-3xl'> 
+             Outside of coding, I try to stay fairly active. Whether that be going to the gym, on a hike or playing basketball with friends. In my free time I enjoy playing video, cooking, watching anime and making music.
             </p>
 
         </div>
