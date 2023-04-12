@@ -40,7 +40,7 @@ const SocialLinks = [
         id:4,
         child: (
             <>
-                Contact Me <BsMailbox  size={30}/>
+                Email <BsMailbox  size={30}/>
             </>
         ),
         href: 'mailto:nicholaswebb2016@gmail.com',
