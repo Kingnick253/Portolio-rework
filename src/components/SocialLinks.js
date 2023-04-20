@@ -43,7 +43,7 @@ const SocialLinks = [
                 Email <BsMailbox  size={30}/>
             </>
         ),
-        href: 'mailto:nicholaswebb2016@gmail.com',
+        href: 'mailto:webbnicholas253@gmail.com',
        style:'rounded-br-md',
 
     },
