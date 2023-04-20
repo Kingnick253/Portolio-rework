@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.4c0a90cc.css",
-    "main.js": "/React-Portfolio/static/js/main.83c07153.js",
+    "main.css": "/React-Portfolio/static/css/main.18c8eb13.css",
+    "main.js": "/React-Portfolio/static/js/main.7cae89f1.js",
     "static/js/787.aeca62f9.chunk.js": "/React-Portfolio/static/js/787.aeca62f9.chunk.js",
     "static/media/paperboy.png": "/React-Portfolio/static/media/paperboy.662f7620badcb5ac066f.png",
     "static/media/notetaker.png": "/React-Portfolio/static/media/notetaker.e51c51de90eeae00b0ce.png",
@@ -17,12 +17,12 @@
     "static/media/javascriptIcon.svg": "/React-Portfolio/static/media/javascriptIcon.7bb08cdbe94fc2dfc1b51be8c2dae551.svg",
     "static/media/css.svg": "/React-Portfolio/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
     "static/media/html.svg": "/React-Portfolio/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
-    "main.4c0a90cc.css.map": "/React-Portfolio/static/css/main.4c0a90cc.css.map",
-    "main.83c07153.js.map": "/React-Portfolio/static/js/main.83c07153.js.map",
+    "main.18c8eb13.css.map": "/React-Portfolio/static/css/main.18c8eb13.css.map",
+    "main.7cae89f1.js.map": "/React-Portfolio/static/js/main.7cae89f1.js.map",
     "787.aeca62f9.chunk.js.map": "/React-Portfolio/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c0a90cc.css",
-    "static/js/main.83c07153.js"
+    "static/css/main.18c8eb13.css",
+    "static/js/main.7cae89f1.js"
   ]
 }
