@@ -29,8 +29,8 @@ const ProjectsData = [
         id: 4,
         title:"Music Match",
         image: MusicM,
-        github: "https://github.com/paullsshin/Paper-Boy",
-        link: "https://paullsshin.github.io/Paper-Boy/"
+        github: "https://github.com/KarlOL82/music-match",
+        link: "https://groove-connection.herokuapp.com/"
     },
 ]
 export default ProjectsData;
