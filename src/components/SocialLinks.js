@@ -1,5 +1,6 @@
 import { BsFillPersonLinesFill, BsMailbox } from 'react-icons/bs';
 import{ FaGithub, FaLinkedin,  } from 'react-icons/fa';
+import resume from '../images/Resume.pdf';
 const SocialLinks = [
     {
         id: 1,
@@ -30,7 +31,7 @@ const SocialLinks = [
                 Resume <BsFillPersonLinesFill size={30}/>
             </>
         ),
-        href: '',
+        href: {resume},
         download: true,
         
        

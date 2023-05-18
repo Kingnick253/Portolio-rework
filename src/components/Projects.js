@@ -12,7 +12,7 @@ const Projects = () => {
           <p></p>
         </div>
         <div
-          className="grid sm:grid-cols-2 md:grid-cols-3 gap-8
+          className="grid sm:grid-cols-2 md:grid-cols-2 gap-8
                 px-12 sm:px-0"
         >
           {ProjectsData.map(({ id, title, image, github, link }) => (
