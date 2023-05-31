@@ -18,7 +18,7 @@ const About = () => {
 
             <br />
             <p className='text-xl lg:text-3xl'> 
-            I have strong inclination to create and develop effcient, secure, and user friendly application. Goal oriented and easy to work with, and would make me a useful asset to the team. 
+            I have strong inclination to create and develop efficient, secure, and user friendly application. Goal oriented and easy to work with, and would make me a useful asset to the team. 
             </p>
             <br />
             <p className='text-xl lg:text-3xl'> 
