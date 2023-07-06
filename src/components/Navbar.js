@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className="flex justify-between items-center w-full h-20 text-white  px-4 bg-black  fixed">
       <div>
-        {/* name in the top right subject to be changed */},
+        {/* name in the top right subject to be changed */}
         <h1 className=" text-5xl font-signature ml-2">Nicholas Webb</h1>
       </div>
 
