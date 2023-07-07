@@ -16,7 +16,7 @@ const ProjectsData = [
         title:"TakeMyNotes",
         image:NoteTaker,
         github: "https://github.com/Kingnick253/TakeMyNote",
-        link: "https://paullsshin.github.io/Paper-Boy/"
+        link: "https://takemynote.onrender.com"
     },
     {
         id: 3,
