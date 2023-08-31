@@ -15,7 +15,7 @@ const Home = () => {
                 </p>
 
                 <div>
-                    <Link to="Projects" smooth duration={500} className="group cursor-pointer text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-DeepOne to-DeepTwo  hover:from-OrangeOne hover:to-OrangeTwo">
+                    <Link to="Projects" smooth duration={400} className="group cursor-pointer text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-DeepOne to-DeepTwo  hover:from-OrangeOne hover:to-OrangeTwo">
                         Projects  
                         <span className=' cursor-pointer group-hover:rotate-90 duration-300'>
                             <BsForwardFill  size={20} className="ml-1"/>
