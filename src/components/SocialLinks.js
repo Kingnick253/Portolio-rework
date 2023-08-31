@@ -1,4 +1,5 @@
-import { BsFillPersonLinesFill, BsMailbox } from 'react-icons/bs';
+import { BsMailbox,} from 'react-icons/bs';
+import { IoDocumentTextOutline } from 'react-icons/io5';
 import{ FaGithub, FaLinkedin,  } from 'react-icons/fa';
 import resume from '../Pdf/Resume.pdf';
 const SocialLinks = [
@@ -28,7 +29,7 @@ const SocialLinks = [
         id:3,
         child: (
             <>
-                Resume <BsFillPersonLinesFill size={30}/>
+                Resume <IoDocumentTextOutline size={30}/>
             </>
         ),
         href: {resume},
