@@ -8,7 +8,7 @@ const Projects = () => {
     >
       <div className="max-w-screen-lg flex flex-col p-4 mx-auto w-full h-full justify-center">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4">Portfolio</p>
+          <p className="text-4xl font-bold inline border-b-4">Projects</p>
           <p></p>
         </div>
         <div
