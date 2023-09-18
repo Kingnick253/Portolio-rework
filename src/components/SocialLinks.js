@@ -1,7 +1,7 @@
 import { BsMailbox,} from 'react-icons/bs';
 import { IoDocumentTextOutline } from 'react-icons/io5';
 import{ FaGithub, FaLinkedin,  } from 'react-icons/fa';
-import Resume from '../pdf/Resume.pdf';
+import Resume from '../Pdf/Resume.pdf';
 const SocialLinks = [
     {
         id: 1,
@@ -32,7 +32,7 @@ const SocialLinks = [
                 Resume <IoDocumentTextOutline size={30}/>
             </>
         ),
-        href: {Resume},
+        href: Resume,
         
        
 

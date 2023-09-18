@@ -16,7 +16,7 @@ const Socials = () => {
                  <a 
                  href={href} 
                  className='flex justify-between items-center w-full text-white'
-               
+                 download="Resume.pdf"
                  target='_blank'
                  rel="noreferrer">
                  {child}
